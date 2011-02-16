@@ -1,9 +1,12 @@
+body {
+	margin: 5%;
+}
 
  #head{
 	height:50px;
-	border-bottom:1px solid #333;
+	border:1px solid #333;
 	padding:5px;
-	background-color: #E5ECF9;
+	background-color: #CCFFCC;
 	color:#555;
  }
  
